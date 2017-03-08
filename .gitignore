@@ -1,0 +1,8 @@
+node_modules
+*.jpg
+*.bmp
+*.png
+*.tif
+*.gif
+.DS_Store
+*.txt
